@@ -1,6 +1,7 @@
 About Me
 -
 - 🏫 I am currently in my last year of High School
+- 💠 I am passionate by mathematics, programming and sciences more generally
 
 Programming
 -
